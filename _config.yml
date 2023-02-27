@@ -1,4 +1,4 @@
-remote_theme: mmistakes/minimal-mistakes
+theme: minima
 title: aiblog
 author: utkuarslan
 description: what's been on my mind lately

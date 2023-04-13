@@ -1,7 +1,4 @@
 ---
-title: "Wow! So Cool"
+title: "Demo post"
 date: 2023-02-27
 ---
- Zeynop bakalım beni bulabilecek misin? 
-
- :egg: Bulduun!
